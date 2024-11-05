@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+--fonte-titulo:"" "Anton SC", sans-serif", sans-serif;"
+--fonte-texto:"" "Dancing Script", cursive ;
+
+--cor1: #2b2d42ff;
+--cor2: #8d99aeff;
+--cor3 : #edf2f4ff;
+--cor4: #ef233cff;
+--cor5: #d90429ff;
+--cor6: #f1f1f1;
+--cor7: #000000;     }
+    body{
+     background-color: var(--cor);
+    padding: 2em;
+    color: var(--cor6);
+text-align: center;
+font-family: var(--);}
+body{
+    background-color: var(--cor1);
+    font-family: var(--fonte-);
+}
+header, footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+footer a{
+    text-decoration: none;
+    color:var(--cor4);
+}
